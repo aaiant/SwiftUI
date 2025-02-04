@@ -16,7 +16,7 @@
 <hr>
 <div align="center">
   <h2>App-List</h2>
-</div>
+</div><br>
 <div align="center" style="display: grid; 
                           grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
                           gap: 20px;
