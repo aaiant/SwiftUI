@@ -70,6 +70,11 @@
                                                 transform: scale(1.02);
                                             }" 
         src="https://github.com/aaiant/SwiftUI/blob/main/App-List/Images/Simulator%20Visit%20Repo%20-%20iPhone%2016.png">
+   <br><br>
+   <div align="center">
+      <h2>Meteo App</h2>
+   </div>
+   <br><br>
      <img alt="App" width="400" style="width: 100%; 
                                             max-width: 400px;
                                             border-radius: 8px;
