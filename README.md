@@ -1,8 +1,7 @@
 <h2>SwiftUI</h2>
+&emsp;About this Repo: This repository is dedicated to development in the Xcode IDE on macOS. My goal is to add as many iOS-specific projects as possible as I become familiar with the Swift programming language and Xcode.
 
-&emsp;About this Repo: **This repository is dedicated to development in the Xcode IDE on macOS. My goal is to add as many iOS-specific projects as possible as I become familiar with the Swift programming language and Xcode.**
-
-<br><h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
@@ -12,7 +11,7 @@
   </a>
 </div>
 
-<br><h3>Images</h3>
+<h3>Images</h3>
 <hr>
 <div align="center">
   <h2>App-List</h2>
